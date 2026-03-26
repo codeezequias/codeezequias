@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Me chamo Lucas Ezequias e eu moro no Rio de Janeiro.</p>
+<p align="left">Me chamo Lucas Ezequias e eu moro no Rio de Janeiro.</p>
 
 ###
 
