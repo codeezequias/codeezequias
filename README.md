@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/ee/47/55/ee4755fc314a836136215f6e1bab76b8.jpg" width="100%" />
+  <img src="ready-black-teixe2us.edgeone.dev" width="100%" />
 </div>
 
 ###
