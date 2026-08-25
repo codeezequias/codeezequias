@@ -1,4 +1,4 @@
-<div data-importer="image" align="center">
+<div data-importer="image" align="left">
   <img data-importer="image" height="218" src="https://i.pinimg.com/1200x/ee/47/55/ee4755fc314a836136215f6e1bab76b8.jpg"  />
 </div>
 
@@ -8,15 +8,15 @@
 
 ###
 
-<h3 data-importer="text" align="left">Sobre mim</h3>
+<h3 data-importer="text" align="center">Sobre mim</h3>
 
 ###
 
-<p data-importer="text" align="left">🧑🏽 Me chamo Lucas Ezequias!<br>👨🏽‍🎓 Sou estudante de engenharia de software na Universidade de Vassouras.<br>💻 Gosto de jogar, codar e assistir series.<br>👨🏽‍💻 Pretendo construir carreira na area de Cybersegurança.</p>
+<p data-importer="text" align="left">🧑🏽 Me chamo Lucas Ezequias!<br> 👨🏽‍🎓 Sou estudante de engenharia de software na Universidade de Vassouras.<br>💻 Gosto de jogar, codar e assistir series.<br>👨🏽‍💻 Pretendo construir carreira na area de Cybersegurança.</p>
 
 ###
 
-<h3 data-importer="text" align="left">Conhecimentos</h3>
+<h3 data-importer="text" align="center">Conhecimentos</h3>
 
 ###
 
