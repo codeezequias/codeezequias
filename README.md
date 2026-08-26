@@ -1,11 +1,3 @@
-<div align="center">
-  <img
-    width="100%"
-    alt="image"
-    src="https://github.com/user-attachments/assets/cd2d44be-6223-4378-853e-eaa9a932e463"
-  />
-</div>
-
 ###
 
 <h1 data-importer="text" align="center">Opa! Beleza?</h1>
